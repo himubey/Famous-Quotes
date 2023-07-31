@@ -18,24 +18,24 @@ body{
 .card-body{
     width: 605px;
     background: #fff;
-    border-radius: 15px;
+    border-radius: 5px;
     padding: 30px 30px 25px;
     box-shadow: 2px 6px 70px -30px;
 }
 
 .card-body header{
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 600;
     text-align: center;
 }
 
 .card-body .content{
-    margin: 35px;   
+    margin: 6px;
 }
 
 .content .quote-body{
     display: flex;
-    justify-content: center;
+    justify-content: center; 
 }
 
 .quote-body i{
@@ -53,7 +53,7 @@ body{
 }
 
 .quote-body .quote{
-    font-size: 22px;
+    font-size: 19px;
     text-align: center;
     word-break: break-all;
 }
