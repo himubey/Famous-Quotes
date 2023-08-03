@@ -38,6 +38,10 @@ body{
     justify-content: center; 
 }
 
+.quote-body .quote{
+    font-size: 16vh;
+}
+
 .quote-body i{
     font-size: 15px;
 }
