@@ -16,7 +16,7 @@
 
 * Twitter: [@himubash](https://twitter.com/himubash)
 * Github: [@himubey](https://github.com/himubey)
-* LinkedIn: [@himubey](https://linkedin.com/in/himubey)
+* LinkedIn: [@himanshudubey24]([https://linkedin.com/in/himubey](https://www.linkedin.com/in/himanshudubey24/))
 
 ## Show your support
 
